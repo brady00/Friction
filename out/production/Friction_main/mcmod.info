@@ -1,0 +1,18 @@
+[
+{
+  "modid": "friction",
+  "name": "Friction",
+  "description": "",
+  "version": "1.0",
+  "credits": "Created by Bragu",
+  "logoFile": "",
+  "mcversion": "1.11",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "Bragu" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+]
+}
+]
